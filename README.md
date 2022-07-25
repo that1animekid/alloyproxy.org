@@ -1,13 +1,13 @@
 # alloyproxy.org
 An easy Alloy instance to deploy to Heroku, any online IDE, or hosting it yourself.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy.org)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Titanium-Network/alloyproxy.org)
 
-<a href="https://repl.it/github/titaniumnetwork-dev/alloyproxy.org" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy" width="140" height="30"><img></a>
+<a href="https://repl.it/github/Titanium-Network/alloyproxy.org" title="Run on Repl.it"><img alt="Run on Repl.it" src="https://repl.it/badge/github/Titanium-Network/alloyproxy" width="140" height="30"><img></a>
 
 # How to use:
 
-1. `git clone https://github.com/titaniumnetwork-dev/alloyproxy.org.git`
+1. `git clone https://github.com/Titanium-Network/alloyproxy.org.git`
 
 2. cd `alloy-server`
 
